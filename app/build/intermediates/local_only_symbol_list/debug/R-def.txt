@@ -1,0 +1,20 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id cancelalarm
+id startMusic
+id startalarm
+id stopMusic
+layout activity_main
+layout activity_main2
+mipmap ic_launcher
+mipmap ic_launcher_round
+raw music
+string app_name
+style Base.Theme.M204_TP3
+style Theme.M204_TP3
+xml backup_rules
+xml data_extraction_rules
